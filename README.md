@@ -116,6 +116,13 @@ What did this fix had to offer
 
 ![Name1](https://github.com/paras98/Log4Shell/blob/main/Images/Presentation2.gif)
 
+2. Disable Lookup feature in log4j. (-Dlog4j2.formatMsgNoLookups = true)
+3. Upgrade Java Version. (Untrust LDAP object URL by default)
+4. Input Filter & Validation
+5. Upgrade WAF and RASP rules
+6. Block or Monitor suspicious traffic when internal server is visiting unknown eternal IP
+
+
 ## 🤔 Reflections on Log4Shell
 
 The incident raised questions about the security of open-source frameworks and the responsibilities of developers and maintainers in ensuring the security of their software. It highlighted the importance of cautious feature support in security-critical software and the need for prompt and effective vulnerability management.
