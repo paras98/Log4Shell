@@ -67,7 +67,7 @@ Enables retrieval of variables via JNDI, where specially crafted lookup strings 
 ## 🎯 Attack Methodology
 
 The attack involves several steps, from the initial injection of the malicious JNDI lookup string into a vulnerable application, to the execution of arbitrary code hosted on the attacker's server. This process could lead to various malicious outcomes, such as establishing reverse shells or executing unauthorized commands on the affected server.
-![Name1](Images/demo.gif "name1")
+![Name1](https://github.com/paras98/Log4Shell/blob/main/Images/Presentation1.gif)
 ![Name1](Images/image7.png "name1")
 
 ## 🎥 Video Demonstration
